@@ -31,3 +31,7 @@ Para no estar parando el servicio en cada cambios agregamos la siguiente linea d
 
 // if __name__ == '__main__':
     app.run(debug=True) //
+
+
+- Finalmente se desplega la web en Heroku (https://www.heroku.com/)
+
